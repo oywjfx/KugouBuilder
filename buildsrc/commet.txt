@@ -1,0 +1,2 @@
+gradlew.bat assembleRelease --stacktrace
+gradlew.bat assembleDebug --stacktrace
